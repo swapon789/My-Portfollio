@@ -31,7 +31,7 @@ const Details2 = () => {
                         </ul>
                     </div>
                     <div className="card-actions justify-end">
-                        <a href="https://meek-zabaione-08e074.netlify.app/"><button className="btn btn-primary">See Now</button></a>
+                        <a href="https://mellifluous-cascaron-f09c1e.netlify.app/home"><button className="btn btn-primary">See Now</button></a>
                     </div>
                 </div>
             </div>

@@ -21,7 +21,7 @@ const Projects2 = () => {
                     <button className='border px-2 mx-3'>Java Script</button> <br />
 
                     <div className='pt-5'>
-                        <a className='underline text-rose-500' href="https://meek-zabaione-08e074.netlify.app/">Live Link</a>
+                        <a className='underline text-rose-500' href="https://mellifluous-cascaron-f09c1e.netlify.app/home">Live Link</a>
                         <a className='underline text-rose-500 mx-3' href="https://github.com/swapon789/quize-cracker-repo">Git Client</a>
                     
                     </div>
